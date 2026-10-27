@@ -1,0 +1,10 @@
+# Build output
+build/
+dist/
+*.zip
+*.exe
+# Contacts / runtime data
+Book1.csv
+*.log
+debug.txt
+__pycache__/
